@@ -1,4 +1,4 @@
-# jak_zosta-_inzynierem-
+# jak_zostac_inzynierem-
 # Jakiś podtytuł
 - raz
 - dwa
